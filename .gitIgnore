@@ -1,0 +1,14 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables file
+.env
+
+# Pickle files
+data.pkl
+
+# System files (Windows)
+Thumbs.db
+Desktop.ini
